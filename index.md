@@ -35,5 +35,5 @@ If you want you can look uo my bio here *[Author]*.
 
 <!---Links-->
 [Author]: <https://github.com/fabian-nunes>
-[Level 1]: <https://fabian-nunes.github.io/frida-allsafe-training/level1/level1.md>
+[Level 1]: <https://fabian-nunes.github.io/frida-allsafe-training/level1.md>
 
