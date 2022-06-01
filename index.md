@@ -1,3 +1,8 @@
+---
+permalink: /
+title: Allsafe CTF Guide
+---
+
 ## Frida Allsafe Application
 
 Hello 😄! This repository will serve as documentation of my progress learning Frida for my Master Thesis.

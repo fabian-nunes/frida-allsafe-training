@@ -1,6 +1,6 @@
 ---
 permalink: /level1
-title: Introduction (or whatever title you choose)
+title: Insecure Logging
 ---
 
 ## Insecure Logging 📝
