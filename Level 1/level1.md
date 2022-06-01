@@ -1,4 +1,4 @@
-## Frida Allsafe Application
+## Insecure Logging
 
 Hello 😄! This repository will serve as documentation of my progress learning Frida for my Master Thesis.
 
@@ -35,5 +35,5 @@ If you want you can look uo my bio here *[Author]*.
 
 <!---Links-->
 [Author]: <https://github.com/fabian-nunes>
-[Level 1]: <https://fabian-nunes.github.io/frida-allsafe-training/level1/level1.md>
+[Level 1]: <https://www.rpgmakerweb.com/products/rpg-maker-mv>
 
