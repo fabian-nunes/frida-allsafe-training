@@ -1,3 +1,8 @@
+---
+permalink: /level1
+title: Introduction (or whatever title you choose)
+---
+
 ## Insecure Logging 📝
 
 During development many programmers use logs as a form of testing their application
