@@ -4,7 +4,7 @@ During development many programmers use logs as a form of testing their applicat
 in Android the developers can use the Log command to log information, these logs can be
 very helpful to understand what is happening however the developer should be cautious
 
-![level1S](/images/level1/level1.jpg "Screen")
+![level1S](./images/level1/level1.jpg "Screen")
 
 ### Difficulty: Easy 🤓
 
@@ -55,7 +55,7 @@ The next step is to go to the Insecure Logging Level, there will be a textbox fo
 
 Write whatever you want.
 
-![level1_1S](/images/level1/level1_1.jpg "Screen")
+![level1_1S](./images/level1/level1_1.jpg "Screen")
 
 #### Step 3
 
