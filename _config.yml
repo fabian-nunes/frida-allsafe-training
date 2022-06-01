@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
 
-source: .
+include:
+  - level1.md
