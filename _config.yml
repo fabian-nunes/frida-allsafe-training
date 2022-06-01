@@ -1,1 +1,5 @@
 theme: jekyll-theme-hacker
+
+nav:
+  - 'index.md'
+  - 'level1.md'
