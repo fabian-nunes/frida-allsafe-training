@@ -1,6 +1,6 @@
 ---
-permalink: /level2
-title: Hardcoded Credentials
+permalink: /level3
+title: Hardcoded Logging
 ---
 
 ## Hardcoded Credentials 📜
